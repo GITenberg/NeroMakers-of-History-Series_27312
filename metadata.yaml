@@ -1,0 +1,33 @@
+_repo: NeroMakers-of-History-Series_27312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2008-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nero, Emperor of Rome, 37-68'
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Nero, 54-68'
+title: 'Nero
+
+  Makers of History Series'
+url: http://www.gutenberg.org/ebooks/27312
